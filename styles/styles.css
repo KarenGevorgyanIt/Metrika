@@ -115,7 +115,7 @@ h2 {
   font-weight: 400;
   font-size: 20px;
   line-height: 27px;
-  color: #fffff;
+  color: #ffff;
   background-color: #ad1818;
   padding: 20px 40px 20px 40px;
   border-radius: 5px;
@@ -125,7 +125,7 @@ h2 {
 .headline-btn:hover {
   text-decoration: none;
   color: #ad1818;
-  background-color: #fffff;
+  background-color: #ffff;
   box-shadow: 0 0 3px 0 #ad1818;
   border-bottom: 1px solid #ad1818;
   transition: 2s;
@@ -216,7 +216,7 @@ h2 {
   width: 1150px;
   height: 153px;
   color: #ad1818;
-  background-color: #fffff;
+  background-color: #ffff;
   border: 1px solid #ad1818;
   border-radius: 5px;
   padding: 56px auto;
@@ -226,7 +226,7 @@ h2 {
 
 .all-projects-btn:hover {
   background-color: #ad1818;
-  color: #fffff;
+  color: #ffff;
   transition: 2s;
 }
 
